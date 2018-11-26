@@ -1,0 +1,8 @@
+nos
+A
+B
+C
+D
+arestas
+A;B;10;0;
+A;C;10;0;
